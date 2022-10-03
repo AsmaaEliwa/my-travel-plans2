@@ -41,12 +41,12 @@ transform: rotate (0deg)
 h2 {
 margin: 0;
 transform: rotate(-45deg) ;
-text-shadow: 0 0 5px #01579b;
+text-shadow: 0 0 5px teal;
   transition: transform 0.5sec;
 }
 #florida {
-  background-color:#03a9f4;
+  background-color:green;
 }
 #paris {
-  background-color:red;
+  background-color:blue;
 }
